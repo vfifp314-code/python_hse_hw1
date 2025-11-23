@@ -1,2 +1,2 @@
 # python-hse-hw
-Домашние задания по Python
+Домашнее задание 1 по Python
